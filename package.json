@@ -1,0 +1,23 @@
+{
+  "name": "typescriptpractice",
+  "version": "1.0.0",
+  "description": "These are just some practices for myself to learn typescript. Starting with the official DOCs",
+  "main": "greeter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnW44/TypeScriptPractice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohnW44/TypeScriptPractice/issues"
+  },
+  "homepage": "https://github.com/JohnW44/TypeScriptPractice#readme",
+  "devDependencies": {
+    "typescript": "^5.7.3"
+  }
+}
